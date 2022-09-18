@@ -1,0 +1,17 @@
+Authors - Alfred V. Aho
+Brian Kernighan, Dennis Ritchie
+Giovanni De Micheli
+Jeffrey D. Ullman, Monica S. Lam
+Kathy Sierra, Bert Bates
+Roberto Tamassia, Michael T. Goodrich
+Ravi Sethi
+Bjarne Stroustrup, Margaret A. Ellis
+Daniel P. Friedman
+Brian W. Kernighan
+Brian Goetz
+Michael L. Scott
+John Resig
+James Rumbaugh, Michael R. Blaha 
+Brian W. Kernighan
+
+list of books - ["Data Structures and Algorithms","The C Programming Language","Synthesis and Optimization of Digital Circuits","Compilers: Principles, Techniques, and Tools","Head First Java","The Art of Computer Programming","Data Structures and Algorithms in Java","Programming Languages: Concepts and Constructs","The Annotated C++ Reference Manual,"Essentials of Programming Languages","The Unix Programming Environment","Java Concurrency in Practice","Programming Language Pragmatics","Pro JavaScript Techniques","Object-Oriented Modeling and Design","The Elements of Programming Style"]
